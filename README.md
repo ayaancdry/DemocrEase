@@ -58,7 +58,7 @@ To install the DemoCrase (Voting System), follow these steps:
 
 ## Usage
 
-The DemoCrase (Voting System) can be utilized for the following purposes:
+The DemocrEase (Voting System) can be utilized for the following purposes:
 
 1. Conducting statewide elections on a large scale.
 2. Managing elections across multiple constituencies simultaneously.
