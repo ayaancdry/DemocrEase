@@ -1,4 +1,4 @@
-# Project Title: DemoCrase (Voting System)
+# Project Title: DemocrEase (Voting System)
 
 A sophisticated voting system designed to enhance the efficiency and fairness of large-scale elections.
 
