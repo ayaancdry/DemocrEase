@@ -12,7 +12,7 @@ A sophisticated voting system designed to enhance the efficiency and fairness of
 
 ## Installation
 
-To install the DemoCrase (Voting System), follow these steps:
+To install the DemocrEase (Voting System), follow these steps:
 
 1. Download and install the necessary libraries.
 
@@ -58,7 +58,7 @@ To install the DemoCrase (Voting System), follow these steps:
 
 ## Usage
 
-The DemocrEase (Voting System) can be utilized for the following purposes:
+The DemocrEase can be utilized for the following purposes:
 
 1. Conducting statewide elections on a large scale.
 2. Managing elections across multiple constituencies simultaneously.
